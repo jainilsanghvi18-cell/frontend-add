@@ -25,20 +25,18 @@ export default function Contact() {
           </h2>
           
           <p className="text-lg text-white mb-12 leading-relaxed">
-            Plot No. C1/2, Steel Town, Opp. Nova Petrochem,<br />
-            Sarkhej-Bavla Highway, Vill. Moraiya, Ahmedabad,<br />
-            382213, Gujarat, India
+            Shed No.7 , Shyam Industrial Estate GIDC Industrial Area, Odhav , Ahmedabad, Gujarat -382415.
           </p>
 
           <div className="space-y-8">
             <div className="flex items-center gap-4 text-white">
               <Phone className="w-6 h-6 flex-shrink-0" />
-              <span className="text-lg font-medium">+91 9999999999</span>
+              <span className="text-lg font-medium">+91 9327058504</span>
             </div>
 
             <div className="flex items-center gap-4 text-white">
               <Mail className="w-6 h-6 flex-shrink-0" />
-              <span className="text-lg font-medium">ecom@skichairz.com</span>
+              <span className="text-lg font-medium">skichariz@gmail.com</span>
             </div>
           </div>
 
